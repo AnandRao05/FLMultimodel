@@ -1,0 +1,13 @@
+patient_id,age,gender,systolic_bp,diastolic_bp,heart_rate,troponin_i,bnp_pg_ml,crp_mg_l,lvef_percent,image_scan_type,image_findings,clinical_notes,diagnosis,severity
+P1-101,64,M,142,88,88,0.42,450,4.2,45,Chest_XRay_PA,"Bilateral perihilar haze, cardiomegaly","Patient presents with exertional dyspnea and orthopnea. Pitting edema.",Heart Failure,Moderate
+P1-102,52,F,120,78,72,0.02,85,1.1,60,Chest_XRay_PA,"Clear lung fields, normal cardiothoracic ratio","Annual cardiovascular screening, asymptomatic, normal heart sounds.",Normal / Benign,None
+P1-103,71,M,158,95,104,1.85,920,12.5,35,Chest_XRay_PA,"Alveolar bat-wing edema, acute cardiomegaly","Acute substernal crushing pain radiating to left jaw and shoulder.",Acute Coronary Syndrome,Critical
+P1-104,58,F,135,82,78,0.15,280,2.8,52,Echocardiogram,"Mild left ventricular hypertrophy, normal valves","Patient reports fatigue, evening pedal edema, history of hypertension.",Heart Failure,Mild
+P1-105,49,M,118,74,68,0.01,65,0.8,62,Chest_XRay_PA,"Normal thoracic anatomy without focal consolidation","Pre-operative surgical clearance, unremarkable cardiopulmonary exam.",Normal / Benign,None
+P1-106,67,F,162,90,96,2.10,1100,15.3,30,Cardiac_MRI,"Subendocardial delayed enhancement LAD territory","Diaphoresis, acute chest tightness, nausea, emergency cardiology consult.",Acute Coronary Syndrome,Critical
+P1-107,61,M,138,84,82,0.28,390,3.5,48,Chest_XRay_PA,"Cephalization of pulmonary blood flow, Kerley B lines","Fatigue, paroxysmal nocturnal dyspnea, on ACE inhibitor therapy.",Heart Failure,Moderate
+P1-108,45,F,115,72,65,0.01,50,0.5,65,Chest_XRay_PA,"Smooth diaphragmatic contours, clear sulci","Routine health check, non-smoker, active runner.",Normal / Benign,None
+P1-109,74,M,168,98,112,2.45,1350,18.9,25,Chest_XRay_PA,"Severe acute pulmonary edema with vascular congestion","Severe respiratory distress, diaphoresis, acute cardiogenic shock.",Acute Coronary Syndrome,Critical
+P1-110,63,F,140,86,84,0.32,480,4.6,42,Echocardiogram,"Reduced ejection fraction with septal wall motion abnormality","Shortness of breath on walking 100 meters, bilateral rales.",Heart Failure,Moderate
+P1-111,50,M,122,76,70,0.02,78,0.9,61,Chest_XRay_PA,"Normal cardiac dimensions, lungs aerated","Executive wellness evaluation, ECG normal sinus rhythm.",Normal / Benign,None
+P1-112,69,M,155,92,90,0.55,620,6.2,38,Cardiac_MRI,"Mid-wall delayed hyperenhancement in lateral myocardium","Known dilated cardiomyopathy, increasing abdominal distension.",Heart Failure,Severe

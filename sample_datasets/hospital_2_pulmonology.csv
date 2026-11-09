@@ -1,0 +1,9 @@
+patient_id,age,gender,systolic_bp,diastolic_bp,heart_rate,troponin_i,bnp_pg_ml,crp_mg_l,lvef_percent,image_scan_type,image_findings,clinical_notes,diagnosis,severity
+P2-201,68,M,138,85,92,0.18,310,8.4,50,Thoracic_CT,"Diffuse ground-glass opacities, dependent consolidation in bilateral lower lobes","Productive cough, low-grade fever, hypoxemia on room air, SpO2 89%.",Pulmonary Pathologies,Severe
+P2-202,44,F,116,74,70,0.01,45,0.7,65,Chest_XRay,"Clear parenchyma, sharp costophrenic angles, normal mediastinum","No chronic cardiopulmonary symptoms, annual occupational health check.",Normal / Benign,None
+P2-203,73,M,150,92,98,0.85,780,11.2,38,Thoracic_CT,"Submassive pulmonary arterial filling defects, right ventricular dilation","Acute pleuritic chest pain, sudden tachypnea, positive D-dimer test.",Acute Cardiopulmonary Event,Critical
+P2-204,59,F,130,80,76,0.12,240,3.1,55,Chest_XRay,"Mild peribronchial thickening, no overt pleural effusion","Chronic smoker, intermittent wheezing, responsiveness to bronchodilators.",Pulmonary Pathologies,Moderate
+P2-205,50,M,122,78,72,0.02,90,1.2,60,Chest_XRay,"Normal cardiac size, pulmonary vascularity within normal limits","Pre-employment medical evaluation, spirometry within normal limits.",Normal / Benign,None
+P2-206,65,F,144,88,88,0.45,520,6.8,46,Thoracic_CT,"Patchy bilateral consolidations, interlobular septal thickening","Fever, progressive dyspnea over 4 days, coarse crackles on auscultation.",Pulmonary Pathologies,Severe
+P2-207,76,M,160,94,106,1.40,890,14.0,32,Thoracic_CT,"Extensive right lower lobe embolism, saddle extension","Syncope episode, profound hypoxia requiring high-flow nasal cannula.",Acute Cardiopulmonary Event,Critical
+P2-208,48,F,118,75,68,0.01,55,0.6,63,Chest_XRay,"Lung volume normal, no infiltrates or masses","Non-cardiac chest discomfort related to musculoskeletal strain.",Normal / Benign,None

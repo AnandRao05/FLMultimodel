@@ -1,0 +1,8 @@
+patient_id,age,gender,systolic_bp,diastolic_bp,heart_rate,troponin_i,bnp_pg_ml,crp_mg_l,lvef_percent,image_scan_type,image_findings,clinical_notes,diagnosis,severity
+P3-301,56,M,146,90,84,0.65,580,5.6,42,Cardiac_MRI,"Delayed gadolinium hyperenhancement in lateral myocardial wall","Patient admitted through ER with atypical chest discomfort and tachycardia.",Myocardial Dysfunction,Severe
+P3-302,48,F,124,76,68,0.02,75,0.9,62,CT_Angiography,"Patent coronary arteries without hemodynamically significant stenosis","Triage category 3, negative serial troponins, non-ischemic chest wall pain.",Normal / Benign,None
+P3-303,69,M,165,98,110,2.45,1250,18.2,28,Cardiac_MRI,"Transmural infarction in anterior wall, akinesis of apex","Emergency ambulance transfer for acute anterior STEMI, emergency catheterization.",Acute Coronary Syndrome,Critical
+P3-304,62,F,132,84,80,0.22,320,3.8,50,Echocardiogram,"Mild diastolic dysfunction, left atrial volume index moderately elevated","Known hypertensive, reports gradual reduction in exercise tolerance.",Myocardial Dysfunction,Moderate
+P3-305,39,M,118,72,64,0.01,40,0.4,64,CT_Angiography,"Normal ventricular dimensions, normal coronary calcium score 0","Palpitations after energy drink ingestion, normal sinus rhythm on telemetry.",Normal / Benign,None
+P3-306,71,F,158,92,94,1.80,980,12.8,34,Cardiac_MRI,"Inferior wall delayed enhancement consistent with subacute infarct","Substernal chest pressure persisting for 12 hours, elevated cardiac enzymes.",Acute Coronary Syndrome,Critical
+P3-307,57,M,142,88,86,0.38,440,4.2,46,Echocardiogram,"Concentric left ventricular remodeling with borderline systolic function","Dyspnea when climbing stairs, baseline ECG demonstrates LV strain pattern.",Myocardial Dysfunction,Moderate
